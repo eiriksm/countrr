@@ -1678,7 +1678,7 @@
             "source": {
                 "type": "git",
                 "url": "https://git.drupal.org/project/devel",
-                "reference": "dbe585a3b7bdca4b3cd9d9be44c3f22272a383b0"
+                "reference": "fcbca9a485c0269f13ec096ba3310de9530219f6"
             },
             "require": {
                 "drupal/core": "~8.0"
@@ -1692,8 +1692,8 @@
                     "dev-1.x": "1.x-dev"
                 },
                 "drupal": {
-                    "version": "8.x-1.0-beta1+25-dev",
-                    "datestamp": "1484815082"
+                    "version": "8.x-1.0-rc1+1-dev",
+                    "datestamp": "1486538284"
                 }
             },
             "notification-url": "https://packages.drupal.org/8/downloads",
@@ -1755,7 +1755,7 @@
                 "issues": "http://drupal.org/project/devel",
                 "irc": "irc://irc.freenode.org/drupal-contribute"
             },
-            "time": "2017-02-08 07:16:17"
+            "time": "2017-03-02 15:41:26"
         },
         {
             "name": "drupal/purge",
