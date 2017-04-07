@@ -1130,7 +1130,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://ftp.drupal.org/files/projects/admin_toolbar-8.x-1.19.zip",
-                "reference": null,
+                "reference": "8.x-1.19",
                 "shasum": "87de41eab3c5cd49d4e1b5b764cb3b9d5ad683a0"
             },
             "require": {
@@ -3836,16 +3836,16 @@
         },
         {
             "name": "symfony/debug",
-            "version": "v2.8.17",
+            "version": "v2.8.19",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/debug.git",
-                "reference": "4a99c3a6cabfa0c297fc3531e61483d276133110"
+                "reference": "e90099a2958d4833a02d05b504cc06e1c234abcc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/debug/zipball/4a99c3a6cabfa0c297fc3531e61483d276133110",
-                "reference": "4a99c3a6cabfa0c297fc3531e61483d276133110",
+                "url": "https://api.github.com/repos/symfony/debug/zipball/e90099a2958d4833a02d05b504cc06e1c234abcc",
+                "reference": "e90099a2958d4833a02d05b504cc06e1c234abcc",
                 "shasum": ""
             },
             "require": {
@@ -3857,7 +3857,7 @@
             },
             "require-dev": {
                 "symfony/class-loader": "~2.2|~3.0.0",
-                "symfony/http-kernel": "~2.3.24|~2.5.9|~2.6,>=2.6.2|~3.0.0"
+                "symfony/http-kernel": "~2.3.24|~2.5.9|^2.6.2|~3.0.0"
             },
             "type": "library",
             "extra": {
@@ -3889,7 +3889,7 @@
             ],
             "description": "Symfony Debug Component",
             "homepage": "https://symfony.com",
-            "time": "2017-01-27T23:54:58+00:00"
+            "time": "2017-02-18T19:13:35+00:00"
         },
         {
             "name": "symfony/dependency-injection",
